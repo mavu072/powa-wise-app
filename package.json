@@ -1,0 +1,20 @@
+{
+  "name": "powa-wise-app",
+  "version": "1.0.0",
+  "description": "A load shedding scheduling tool for South Africa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eskom-loadshedding-api": "^0.1.5",
+    "firebase": "^9.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
